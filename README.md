@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adithiprasannan
-- 👀 I’m interested in typing 
+- 👀 I’m interested in developing 
 - 🌱 I’m currently learning open source projects
 - 💞️ I’m looking to collaborate on software field
 - 📫 How to reach me adithip2020@gmail.com
