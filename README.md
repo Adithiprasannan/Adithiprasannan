@@ -10,6 +10,8 @@
 - 📫 How to reach me adithip2020@gmail.com
 - 📫 How to reach me adithip2020@gmail.com
 - 📫 How to reach me adithip2020@gmail.com
+ 👋 Hi, I’m Adithiprasannan
+ 👋 Hi, I’m Adithiprasannan
 
 <!---
 Adithiprasannan/Adithiprasannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
