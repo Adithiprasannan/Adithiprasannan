@@ -13,7 +13,7 @@
 - 👋 Hi, I’m Adithiprasannan 
 - 👋 Hi, I’m Adithiprasannan
 - 👀 I’m interested in developing 
-- 🌱 I’m currently learning open source projects
+
 
 
 <!---
