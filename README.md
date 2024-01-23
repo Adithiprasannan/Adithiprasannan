@@ -14,7 +14,7 @@
 - 👋 Hi, I’m Adithiprasannan
 - 👀 I’m interested in developing 
 - 🌱 I’m currently learning open source projects
-- 💞️ I’m looking to collaborate on software field
+
 
 <!---
 Adithiprasannan/Adithiprasannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
